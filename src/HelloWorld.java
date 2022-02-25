@@ -6,6 +6,6 @@ public class HelloWorld {
         Scanner scan = new Scanner(System.in);
                 System.out.println("what is your name user?");
                 name = scan.nextLine();
-        System.out.println("Hello " + name);
+        System.out.println("Hello " + name + "!");
     }
 }
